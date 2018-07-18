@@ -1263,7 +1263,7 @@ namespace StockServices
                 return CurrentYearMonthList;
             }
         }
-        //Add some some some//
+        //Add some some somedfasdfsdf//
         //===============================================================================================ห้ามลืมข้างล่างนี้ เดี๋ยวพังนะไอโน้ตตต
     }
 }
